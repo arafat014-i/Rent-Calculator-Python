@@ -8,8 +8,6 @@ A simple Python program that calculates how much each person should pay when sha
 - Easy CLI input
 
 ## Installation
-
-```bash
 git clone https://github.com/arafat014-i/rent-calculator-python.git
 cd rent-calculator-python
-python src/rent_calculator.py
+python rent_calculator.py
